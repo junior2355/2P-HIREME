@@ -1,0 +1,24 @@
+p{ 
+  font-family: 'Charmonman', cursive;
+}
+h1{
+ font-family: 'Monoton', cursive;
+}
+h2{
+font-family: 'Marck Script', cursive;    
+}
+p{
+  color:red;
+}
+h1{
+ color:blue;   
+}
+h2{
+color:green;    
+}
+html{
+background-color:purple;  
+}
+img{
+    border:10px groove green;
+}
